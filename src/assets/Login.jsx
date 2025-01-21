@@ -1,6 +1,6 @@
 import React from 'react';
 import { Mail, Lock } from 'lucide-react'; 
-import './login.css';
+import './Login.css';
 import { Link } from 'react-router-dom'; 
 import ForgotPassword from './ForgotPassword'
 function Login() {
