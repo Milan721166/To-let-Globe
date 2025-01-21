@@ -141,6 +141,6 @@
   
   .input_group:focus-within {
     border-color: #007bff;
-    background-color: #fff;
+    background-color: black;
   }
   
